@@ -2,7 +2,7 @@
 👋 Hi, I'm Madhav  
 I have acquired a comprehensive understanding of Full Stack Development, encompassing both front-end and back-end technologies. On the front-end, I’ve gained proficiency in HTML, CSS, JavaScript, and modern frameworks such as React, enabling me to create responsive, user-centric web interfaces.
 
-On the back-end, I’ve developed strong skills in server-side technologies such as Node.js with Express.js, and worked with databases like MongoDB to ensure efficient data management and integration. I also have experience with RESTful APIs, version control systems like Git, and cloud deployment platforms such as Render or Vercel.
+On the back-end, I’ve developed strong skills in server-side technologies such as Node.js with Express.js, and worked with databases like MongoDB to ensure efficient data management and integration. I also have experience with RESTful APIs, GitHub for version control and collaboration, and cloud deployment platforms such as Render or Vercel.
 
 A strong willingness to keep learning and a collaborative attitude focused on creating effective and improved solutions for real-world challenges.
 
